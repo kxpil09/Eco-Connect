@@ -50,12 +50,12 @@ class _ChatScreenState extends State<ChatScreen> {
 
   void openChallengeScreen() {
     // Push the ChallengeScreen onto the screen stack
-    // Navigator.push(
-    //   context,
-    //   MaterialPageRoute(
-    //     builder: (context) => ChallengeScreen(),
-    //   ),
-    // );
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => ChallengeScreen(),
+      ),
+    );
 }
   @override
   Widget build(BuildContext context) {

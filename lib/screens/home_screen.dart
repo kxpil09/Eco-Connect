@@ -135,19 +135,19 @@ class _HomePageState extends State<HomePage> {
                 _buildButton(
                   'Tips Page',
                   () {
-                    // Navigator.push(
-                    //    context,
-                    //    MaterialPageRoute(builder: (context) => CarbonFootprintTipsScreen()),
-                    //  );
+                    Navigator.push(
+                       context,
+                       MaterialPageRoute(builder: (context) => CarbonFootprintTipsScreen()),
+                     );
                   },
                 ),
                 _buildButton(
                   'Credits',
                   () {
-                    // Navigator.push(
-                    //    context,
-                    //    MaterialPageRoute(builder: (context) => CreditsPage()),
-                    //  );               
+                    Navigator.push(
+                       context,
+                       MaterialPageRoute(builder: (context) => CreditsPage()),
+                     );               
                        },
                 ),
 
