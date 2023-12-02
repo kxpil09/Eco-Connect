@@ -41,7 +41,11 @@ The core aspiration of the "Eco Connect" initiative is to craft a dynamic mobile
    - Benefit from partnerships with eco-sensitive brands and influential personalities committed to sustainability.
 
 ## Screenshots
-![Alt text](credits.png) ![Alt text](calculator.png) ![Alt text](chat.png) ![Alt text](home.png) ![Alt text](tips.png) ![Alt text](signup.png) ![Alt text](login.png) ![Alt text](challenges.png)
+![Login/Signup](image.png)
+![Home/Calculator](image-1.png)
+![Chat/Challenges](image-2.png)
+![Tips/Credits](image-3.png)
+
 
 ## Contributing
 
