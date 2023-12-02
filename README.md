@@ -40,6 +40,9 @@ The core aspiration of the "Eco Connect" initiative is to craft a dynamic mobile
 ### 9. Strategic Partnerships
    - Benefit from partnerships with eco-sensitive brands and influential personalities committed to sustainability.
 
+## Screenshots
+![Alt text](credits.png) ![Alt text](calculator.png) ![Alt text](chat.png) ![Alt text](home.png) ![Alt text](tips.png) ![Alt text](signup.png) ![Alt text](login.png) ![Alt text](challenges.png)
+
 ## Contributing
 
 We welcome contributions from the community to make Eco Connect even better

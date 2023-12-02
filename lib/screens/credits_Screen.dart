@@ -77,16 +77,7 @@ class CreditsPage extends StatelessWidget {
                   name: 'Kapil Kukreja',
                   portfolioURL: 'https://kapilkukreja.netlify.app',
                 ),
-                SizedBox(height: 8),
-                buildDeveloperInfo(
-                name: 'Mansi Singh Rajput',
-                portfolioURL: 'https://www.linkedin.com/in/mansi-rajput-82734a200/',
-                ),
-                // SizedBox(height: 8),
-                // buildDeveloperInfo(
-                //   name: 'Shruti',
-                //   portfolioURL: 'https://www.linkedin.com/in/shruti-chadwal-b68934230/',
-                // ),
+
               ],
             ),
           ),
